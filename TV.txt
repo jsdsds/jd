@@ -1,4 +1,69 @@
 电视,#genre#
+翡翠台,http://live.qiyuevod.com/dextv/hkxs.php?id=x1
+明珠台,http://live.qiyuevod.com/dextv/hkxs.php?id=x2
+TVB J2,http://live.qiyuevod.com/dextv/hkxs.php?id=x3
+无线新闻,http://live.qiyuevod.com/dextv/hkxs.php?id=x4
+无线财经,http://live.qiyuevod.com/dextv/hkxs.php?id=x5
+ViuTV,http://live.qiyuevod.com/dextv/hkxs.php?id=x6
+ViuTV6,http://live.qiyuevod.com/dextv/hkxs.php?id=x7
+RTHK31,http://live.qiyuevod.com/dextv/hkxs.php?id=x8
+RTHK32,http://live.qiyuevod.com/dextv/hkxs.php?id=x9
+HOY TV,http://live.qiyuevod.com/dextv/hkxs.php?id=x10
+HOY 资讯台,http://live.qiyuevod.com/dextv/hkxs.php?id=x11
+翡翠台(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c1
+明珠台(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c2
+TVB J2(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c3
+无线新闻(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c4
+无线财经(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c5
+ViuTV(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c6
+ViuTVSix(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c7
+RTHK31(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c8
+RTHK32(软解),http://live.qiyuevod.com/dextv/hkcs2.php?id=c9
+翡翠台(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c1
+明珠台(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c2
+TVB J2(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c3
+无线新闻(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c4
+无线财经(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c5
+ViuTV(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c6
+ViuTV6(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c7
+RTHK31(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c8
+RTHK32(软解),http://live.qiyuevod.com/dextv/hkcs.php?id=c9
+翡翠台(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c1
+明珠台(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c2
+TVB J2(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c3
+无线新闻(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c4
+无线财经(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c5
+ViuTV(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c6
+ViuTV6(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c7
+RTHK31(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c8
+RTHK32(软解),http://live.qiyuevod.com/dextv/hkcs3.php?id=c9
+now新闻,https://sc2022.stream-link.org/tv2306.php?id=c02
+无线新闻,http://live.qiyuevod.com/dextv/hk.php?id=7
+无线新闻,http://live.qiyuevod.com/dextv/hk.php?id=8
+无线财经,http://live.qiyuevod.com/dextv/hk.php?id=9
+无线财经,http://live.qiyuevod.com/dextv/hk.php?id=10
+ViuTV,http://live.qiyuevod.com/dextv/hk.php?id=11
+ViuTV,http://live.qiyuevod.com/dextv/hk.php?id=12
+ViuTV6,http://live.qiyuevod.com/dextv/hk.php?id=13
+ViuTV6,http://live.qiyuevod.com/dextv/hk.php?id=14
+RTHK31,http://live.qiyuevod.com/dextv/hk.php?id=15
+RTHK31,http://live.qiyuevod.com/dextv/hk.php?id=16
+RTHK32,http://live.qiyuevod.com/dextv/hk.php?id=17
+RTHK32,http://live.qiyuevod.com/dextv/hk.php?id=18
+台视,http://live.qiyuevod.com/dextv/tw.php?id=1
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+中视,http://live.qiyuevod.com/dextv/tw.php?id=2
+中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
+民视,http://live.qiyuevod.com/dextv/tw.php?id=3
+华视,http://live.qiyuevod.com/dextv/tw.php?id=4
+华视,http://162.19.247.76:22222/live/huashi/index.m3u8
+TVBS新闻,http://live.qiyuevod.com/dextv/tw.php?id=5
+TVBS欢乐,http://live.qiyuevod.com/dextv/tw.php?id=6
+东森财经新闻,http://live.qiyuevod.com/dextv/tw.php?id=7
+纬来日本,http://live.qiyuevod.com/dextv/tw.php?id=8
+纬来育乐,http://live.qiyuevod.com/dextv/tw.php?id=9
+纬来体育,http://live.qiyuevod.com/dextv/tw.php?id=10
+
 
 4K乐享超清,http://222.209.244.139:8188/udp/239.93.0.43:5140
 绚影4K,http://222.209.244.139:8188/udp/239.93.42.33:5140
