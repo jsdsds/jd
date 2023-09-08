@@ -1,4 +1,4 @@
-CCTV#genre#
+CCTV,#genre#
 CCTV1,http://[2409:8c10:c00:4f:35::]/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
 
 
