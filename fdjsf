@@ -5,6 +5,9 @@
        {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naC1wcm94eS5jb20vaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2pzZHNkcy9qZC9tYWluL1RWLnR4dA=="]}]}],
 "sites": [
 
+{"key":"8090资源","name":"8090资源","type":1,"api":"","playUrl":"https://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+
     {
       "key": "?色猫资源",
       "name": "色猫资源",
